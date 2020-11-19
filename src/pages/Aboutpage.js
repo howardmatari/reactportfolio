@@ -13,7 +13,7 @@ function AboutPage(props){
         <p>Hello, my name is Matari Howard and I am a full stack web developer located in Miami, Florida.</p>
         
         <p>I am constantly learning new things and currently have experience with Express, Nodejs, REACT,
-           MOngoDB, SQL, HTML, and CSS</p>
+           MongoDB, SQL, HTML, and CSS</p>
         </Content>
         </div>
     )
