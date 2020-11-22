@@ -3,7 +3,8 @@ import {Container,Row} from 'react-bootstrap';
 
 import Card from '../components/Card';
 
-import devgrub from '../assets/images/man2ipad.jpg';
+import search from '../assets/images/man2ipad.jpg';
+//import devgrub from '../assets/images/man2ipad.jpg';
 import linkedin from '../assets/images/manipad.jpg';
 import github from '../assets/images/sample.png.jpg';
 
@@ -16,10 +17,10 @@ class Carousel extends React.Component {
             items: [
                 {
                     id:0,
-                    title: 'Dev Grub',
-                    subTitle: 'The cookbook for developers',
-                    imgSrc: devgrub,
-                    link: 'https://devgrub.com',
+                    title: 'Search',
+                    subTitle: 'Search the web for developers',
+                    imgSrc: search,
+                    link: 'https://google.com',
                     selected:false
                 },
                 {
