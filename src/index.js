@@ -8,6 +8,8 @@ import 'bootstrap/dist/css/bootstrap.css';
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    
+    <style>{'body { background-color: magenta; }'}</style>
   </React.StrictMode>,
   document.getElementById('root')
 );
